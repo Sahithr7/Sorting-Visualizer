@@ -1,0 +1,19 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    height: 70px;
+    float: left;
+}
+
+.text-part {
+    display: inline-block;
+    text-align: center;
+    margin: 25px 0 0 0;
+    width: 200px;
+}
+
